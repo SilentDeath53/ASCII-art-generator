@@ -1,1 +1,2 @@
-# ASCII-art-generator
+# ASCII Art Generator
+Simple ASCII art generator.
